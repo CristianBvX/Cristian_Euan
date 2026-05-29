@@ -9,7 +9,7 @@
 - 🎓 Estudiante avanzado enfocado en ingeniería de software y desarrollo de sistemas eficientes.
 - 💻 Actualmente desarrollando proyectos de sistemas de inventarios institucionales y plataformas web de trazabilidad comercial.
 - 💡 Me interesa el prototipado de hardware y la automatización mediante el Internet de las Cosas (IoT).
-- 🎧 **Pasatiempos:** En mi tiempo libre disfruto de la acústica, la configuración de sistemas de sonido, la producción de audio y los videojuegos de estrategia y acción.
+- 🎧 **Pasatiempos:** En mi tiempo libre disfruto de la acústica, la configuración de sistemas de sonido, los videojuegos de estrategia y acción.
 
 ---
 
