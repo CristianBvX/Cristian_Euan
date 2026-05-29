@@ -38,20 +38,6 @@
 - **Plataformas de Trazabilidad Comercial:** Soluciones web dinámicas orientadas a potenciar la visibilidad y comercialización de productos locales.
 - **Monitoreo Automatizado:** Integración de microcontroladores con sensores avanzados (ultrasónicos, pantallas OLED) para optimizar recursos físicos.
 
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=visual_studio_dark" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=visual_studio_dark" alt="Lenguajes más usados" />
-</p>
-
----
-
 ### 📫 Contacto
 
 - 📧 Correo electrónico: [cristianeuan49@gmail.com]
